@@ -1,0 +1,24 @@
+20230803	15:17:24	0e02f5e8-83c8-42bc-b170-66963bfb47da	/new-path	GET
+20230803	15:17:24	86cd275d-d881-42bd-9bcf-f43d3e30c4bc	/css/style.css	GET
+20230803	15:17:24	bb50f2c9-9ac1-407d-852a-c824b6aeea0f	/favicon.ico	GET
+20230803	15:18:05	af685cdc-b4b9-4764-b260-9e605bf8cca6	/data/data.json	GET
+20230803	15:18:12	a55cccbb-4b8f-435e-a5ad-cadad908cbcd	/new-path	GET
+20230803	15:18:12	47908729-79ae-47c9-9292-9655454df0ea	/css/style.css	GET
+20230803	15:18:15	9697e03b-2777-4862-a99c-7ab08ec855d3	/new-page.html	GET
+20230803	15:18:15	5571b2ff-401f-48c2-9df2-421bf4d9f818	/css/style.css	GET
+20230803	15:18:15	8708e947-155e-41f6-be88-df145f5465c3	/img/img1.jpg	GET
+20230803	18:19:57	9ecb1a12-6439-472b-8160-633ae3346b40	/css/style.css	GET
+20230803	18:19:57	88792b5b-a8c5-477d-9bcd-24be0d64d01c	/img/img1.jpg	GET
+20230804	12:34:33	a009ebbd-44c8-4ace-860a-81e1194a50de	GET	undefined	/index
+20230804	12:34:33	6f9645bd-a529-42ad-9ff1-2af78e9ba292	GET	undefined	/css/style.css
+20230804	12:36:54	de071ef0-8427-467b-b067-dbe1e5e9b44b	GET	undefined	/css/style.css
+20230804	12:38:34	a75e465c-f964-4a76-a390-d0ff39bdc87f	GET	undefined	/css/style.css
+20230804	12:38:44	6f3fc9be-dfb9-49d8-b7df-7d11339e463c	GET	undefined	/new-page.html
+20230804	12:38:44	44f55df3-d86c-49a7-8c47-ba8f357bec67	GET	undefined	/img/img1.jpg
+20230804	12:38:44	c8b1ad8f-83c8-4275-8bb6-b4fe7d9fa2c6	GET	undefined	/css/style.css
+20230804	12:54:50	a930beef-d3f0-4c6a-8e89-f45a413b00ce	GET	undefined	/new-page.html
+20230804	12:54:50	344b8e43-db19-473d-8813-51b49f870471	GET	undefined	/img/img1.jpg
+20230804	12:54:50	fda25dcb-ba8b-43e0-ada5-c1fe905e2de1	GET	undefined	/css/style.css
+20230804	12:54:55	18bd35f0-4663-4f67-bf06-7bf55a775372	GET	undefined	/555
+20230804	12:54:55	452b4235-511f-4071-8dbf-5e805f868452	GET	undefined	/css/style.css
+20230804	12:55:17	f6a824e2-6f60-4262-8abc-e740722ce1fc	GET	undefined	/555

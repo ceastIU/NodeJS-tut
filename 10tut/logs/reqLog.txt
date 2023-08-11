@@ -1,0 +1,52 @@
+20230803	15:17:24	0e02f5e8-83c8-42bc-b170-66963bfb47da	/new-path	GET
+20230803	15:17:24	86cd275d-d881-42bd-9bcf-f43d3e30c4bc	/css/style.css	GET
+20230803	15:17:24	bb50f2c9-9ac1-407d-852a-c824b6aeea0f	/favicon.ico	GET
+20230803	15:18:05	af685cdc-b4b9-4764-b260-9e605bf8cca6	/data/data.json	GET
+20230803	15:18:12	a55cccbb-4b8f-435e-a5ad-cadad908cbcd	/new-path	GET
+20230803	15:18:12	47908729-79ae-47c9-9292-9655454df0ea	/css/style.css	GET
+20230803	15:18:15	9697e03b-2777-4862-a99c-7ab08ec855d3	/new-page.html	GET
+20230803	15:18:15	5571b2ff-401f-48c2-9df2-421bf4d9f818	/css/style.css	GET
+20230803	15:18:15	8708e947-155e-41f6-be88-df145f5465c3	/img/img1.jpg	GET
+20230803	18:19:57	9ecb1a12-6439-472b-8160-633ae3346b40	/css/style.css	GET
+20230803	18:19:57	88792b5b-a8c5-477d-9bcd-24be0d64d01c	/img/img1.jpg	GET
+20230804	12:34:33	a009ebbd-44c8-4ace-860a-81e1194a50de	GET	undefined	/index
+20230804	12:34:33	6f9645bd-a529-42ad-9ff1-2af78e9ba292	GET	undefined	/css/style.css
+20230804	12:36:54	de071ef0-8427-467b-b067-dbe1e5e9b44b	GET	undefined	/css/style.css
+20230804	12:38:34	a75e465c-f964-4a76-a390-d0ff39bdc87f	GET	undefined	/css/style.css
+20230804	12:38:44	6f3fc9be-dfb9-49d8-b7df-7d11339e463c	GET	undefined	/new-page.html
+20230804	12:38:44	44f55df3-d86c-49a7-8c47-ba8f357bec67	GET	undefined	/img/img1.jpg
+20230804	12:38:44	c8b1ad8f-83c8-4275-8bb6-b4fe7d9fa2c6	GET	undefined	/css/style.css
+20230804	12:54:50	a930beef-d3f0-4c6a-8e89-f45a413b00ce	GET	undefined	/new-page.html
+20230804	12:54:50	344b8e43-db19-473d-8813-51b49f870471	GET	undefined	/img/img1.jpg
+20230804	12:54:50	fda25dcb-ba8b-43e0-ada5-c1fe905e2de1	GET	undefined	/css/style.css
+20230804	12:54:55	18bd35f0-4663-4f67-bf06-7bf55a775372	GET	undefined	/555
+20230804	12:54:55	452b4235-511f-4071-8dbf-5e805f868452	GET	undefined	/css/style.css
+20230804	12:55:17	f6a824e2-6f60-4262-8abc-e740722ce1fc	GET	undefined	/555
+20230805	15:33:21	e7aec47b-e9cd-42aa-bf80-f9d6ce57a914	GET	undefined	/subdir/
+20230805	15:33:53	d50cde0e-d7ba-4eb8-b61f-316431add15e	GET	undefined	/subdir/
+20230805	15:35:02	c6e76b42-8496-4a03-ac13-aa678504d3ac	GET	undefined	/subdir/dave
+20230805	15:35:02	cd5a01f1-2f50-4fff-b93a-246b31854b4a	GET	undefined	/subdir/css/style.css
+20230805	15:35:52	729e8d42-cfff-45eb-bb77-c447189193d6	GET	undefined	/subdir/dave
+20230805	15:35:52	5d33d9b1-caa4-4e57-9dc4-65fb498be5ea	GET	undefined	/subdir/css/style.css
+20230805	16:21:57	3e450d11-3ae2-45aa-b6bf-b8c527b2a673	GET	undefined	/subdir/dave
+20230805	16:21:57	5330c92d-9dc2-4204-a84e-21163a5209d9	GET	undefined	/subdir/css/style.css
+20230805	16:22:00	1179edd0-a204-4731-8d0b-3b29e6f704e9	GET	undefined	/subdir/
+20230805	16:22:03	70e59a10-a85f-4ec0-8ec3-7d1a41f5a065	GET	undefined	/
+20230805	16:22:03	0a5663a6-09c4-4c44-a3d1-40ba91d729ee	GET	undefined	/css/style.css
+20230805	16:33:25	b7ace8c6-bd5b-4209-b6b5-c31975d15beb	GET	undefined	/employees
+20230805	16:36:12	ce4433ab-5d27-427c-a04d-d263ec28217e	GET	undefined	/employees
+20230805	16:36:56	ec2f3555-eb57-45dd-85cf-d49da0a82ff0	POST	undefined	/employees
+20230805	16:37:00	875e42cc-a7b6-451f-84e0-625f9cb0e06b	PUT	undefined	/employees
+20230806	13:07:52	20f3b3bb-cb99-4dac-b901-2b158e062bb3	GET	undefined	/employees
+20230806	13:08:00	dc2f5b82-e34f-4352-812d-2ce5e1b5835b	PUT	undefined	/employees
+20230806	13:19:55	1050d50e-7a9c-4121-9db5-c512efe514d7	POST	undefined	/employees
+20230806	13:23:19	c6d7f3ac-3870-44d7-8b5f-9f78f8d65af2	PUT	undefined	/employees
+20230806	13:32:50	92d58b70-bbe4-419d-bf98-50ff07e5adfb	GET	undefined	/employee/1
+20230806	13:32:58	0c642b3b-40ec-4273-a76a-8141b3c28caf	GET	undefined	/employees/1
+20230807	14:19:51	eb1fe006-c078-4d9f-b324-dcc574db0661	GET	undefined	/register
+20230807	14:21:20	84b32e4d-6156-494f-af41-2f6bb678b5fe	GET	undefined	/register
+20230807	14:21:47	e25d0ff5-c4ac-497b-8c59-0e393e4a72b2	POST	undefined	/register
+20230807	14:22:25	86fdb478-97cc-420d-92f3-8b1fdc1669ed	POST	undefined	/register
+20230807	14:22:35	63199dfb-c782-4887-873b-735539dc98a2	POST	undefined	/register
+20230807	14:32:38	2cf1c1be-58b2-45b2-97e5-4579f40ee3cf	GET	undefined	/auth
+20230807	14:33:15	ff8d7487-27b5-4ac4-ba57-7e6070a87b18	POST	undefined	/auth
